@@ -1986,3 +1986,7 @@ Refer to the recipe's ResourceLocation to find the mod responsible and let them 
 ]
 [21Dec2024 21:03:20.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: VoidNoir1 lost connection: Timed out
 [21Dec2024 21:03:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 left the game
+[21Dec2024 21:20:25.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: VoidNoir1[/[::1]:46924] logged in with entity id 510 at (6.5, 68.2, 7.5)
+[21Dec2024 21:20:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: VoidNoir1 joined the game
+[21Dec2024 21:20:27.071] [Server thread/INFO] [Jade/]: Syncing config to VoidNoir1 (16168620-d599-3e7d-b4a2-d3f8800cdf56)
+[21Dec2024 21:20:27.077] [Server thread/INFO] [de.melanx.skyblockbuilder.SkyblockBuilder/]: Cached profiles: 0 (-2 unused), uncached profiles: 0, total profiles: 2
